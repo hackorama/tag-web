@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="269"
+   name=""
+   committed-date="2006-09-15T03:29:40.281805Z"
+   url="svn+ssh://192.168.1.103/svn/html/css"
+   last-author="kishan"
+   kind="dir"
+   uuid="0afac1ff-8c13-0410-9222-beb93b0c0223"
+   revision="275"/>
+<entry
+   committed-rev="120"
+   name="print.css"
+   text-time="2006-08-04T03:50:44.000000Z"
+   committed-date="2006-07-29T22:28:59.258626Z"
+   checksum="eab9da939ed1c2dcdb6be461562752ed"
+   last-author="root"
+   kind="file"
+   prop-time="2006-08-04T03:50:44.000000Z"/>
+<entry
+   committed-rev="120"
+   name="preview.css"
+   text-time="2006-08-04T03:50:44.000000Z"
+   committed-date="2006-07-29T22:28:59.258626Z"
+   checksum="1335d9257af1c601ec7d90deedee371a"
+   last-author="root"
+   kind="file"
+   prop-time="2006-08-04T03:50:44.000000Z"/>
+<entry
+   committed-rev="120"
+   name="printer.css"
+   text-time="2006-08-04T03:50:44.000000Z"
+   committed-date="2006-07-29T22:28:59.258626Z"
+   checksum="d5e1229523009c573e369e2a4da60cf2"
+   last-author="root"
+   kind="file"
+   prop-time="2006-08-04T03:50:44.000000Z"/>
+<entry
+   committed-rev="269"
+   name="default.css"
+   text-time="2006-09-15T01:18:20.000000Z"
+   committed-date="2006-09-15T03:29:40.281805Z"
+   checksum="f220e9c791b57e29f339b81e89865384"
+   last-author="kishan"
+   kind="file"
+   prop-time="2006-08-04T03:50:44.000000Z"/>
+</wc-entries>

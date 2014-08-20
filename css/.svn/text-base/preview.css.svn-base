@@ -1,0 +1,126 @@
+/* @page {
+  size: 8.5in 11in;  
+  margin: 0%;
+  marks: cross;
+}
+*/
+
+body { 
+	text-align: center;
+	background-color: #ffffff;
+	vertical-align: middle;
+	color: #000000;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	font-family: verdana, arial, sans-serif; 
+	font-size:  10;
+	width: 7in;
+	height: 9.3in;
+}
+
+a:link { 
+	color: #173797; 
+	text-decoration: none;
+}
+
+a:visited { 
+	color: #173797; 
+	text-decoration: none;
+}
+
+a:hover { 
+	color: #FF6600; 
+	text-decoration: none; 
+}
+
+a:hover { 
+	color: #FF6600; 
+	text-decoration: none; 
+}
+
+
+.printmarker { 
+	border: 1px dotted #aaaaaa;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#printpreview1  {
+        position: absolute;
+        top: 0;
+        bottom: auto;
+        right: auto;
+        left: 0;
+        font-family: verdana, arial, sans-serif;
+        font-size: 10px;
+}
+
+/*
+#printpreview1 { 
+	display: none;
+}
+*/
+
+#printpreview2 { 
+	position: absolute; 
+	top: 5px;
+        right: 0;
+        bottom: auto;
+        left: 700px;
+        background: url(/img/i/back1.png) no-repeat center left;
+        padding-left: 20px;
+        padding-right: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+}
+
+#printbox { 
+	position: absolute; 
+	top: 20px;
+        right: 0;
+        bottom: auto;
+        left: 10px;
+	text-align: left;
+	background-color: #ffffff;
+	vertical-align: middle;
+	border: 0px solid #aaaaaa;
+	padding-bottom: 0px;
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+
+#box, #outbox { 
+	text-align: left;
+	background-color: #ffffff;
+	border: 0px solid #aaaaaa;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.mt_item , .mu_item, #printmenu, #toplogo, #topmenu, #topmenu_box,  #usermenu,  #usermenu_box, #footer, #beta, #subtitle, #loginbox, #welcomebox, #userform, #nojavascript, .noscript, .footermsg {
+	display: none;
+	width: 0;
+	height: 0;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.hspacer { 
+	display: none;
+	width: 0;
+	height: 0;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+
